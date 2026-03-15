@@ -1,0 +1,7 @@
+*.pdf
+.idea/
+__pycache__/
+*.pyc
+*.npy
+*.idx1-ubyte
+*.idx3-ubyte
